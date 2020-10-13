@@ -5,7 +5,7 @@
       <paths name="AFS">
         <serverdata>
           <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="how-the-internet-works" local="$PROJECT_DIR$" web="/how-the-internet-works" />
           </mappings>
         </serverdata>
       </paths>
